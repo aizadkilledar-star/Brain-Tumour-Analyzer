@@ -1,10 +1,13 @@
-reportlab
+streamlit==1.32.2
+reportlab==4.0.8
+protobuf==3.20.3
 tensorflow
 numpy
 pandas
 matplotlib
 scikit-learn
-streamlit
+
 pillow
 opencv-python
 ipykernel
+
